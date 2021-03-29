@@ -5,7 +5,7 @@
            Iker Garcia (I+D)
            Queralt Dachs (Comunicacions)
            Adrià Payet (Lider)
-## Puzles:
+## Puzzles:
            Youssef El Moujahidi (elechouse)
            Iker Garcia (RC522)
            Queralt Dachs (LCD)
