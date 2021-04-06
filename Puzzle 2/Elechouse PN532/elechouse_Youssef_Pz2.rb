@@ -1,6 +1,6 @@
 require 'gtk3' 
 require 'thread'
-require_relative 'elechouse_Youssef.rb'
+require_relative 'elechouse_Youssef_Pz1.rb'
 
 BLUE = Gdk::RGBA.new(0,0,1,0.65)
 RED = Gdk::RGBA.new(1,0,0,0.65)
