@@ -10,3 +10,7 @@
            Iker Garcia (RC522)
            Queralt Dachs (LCD)
            Adrià Payet (ITEAD)
+## Llenguatges de programació
+           Ruby
+           MySQL
+           Node.JS
